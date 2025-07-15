@@ -49,6 +49,12 @@ public class missingNmber {
 
 
     }
+    // public static int missingNum(int[] nums){
+    //     int xor1=1^2^3^4^5;
+    //     int xor2=1^2^4^5;
+    //     int result= xor1^xor2;
+    //     return result;
+    // }
     public static void main(String[] args) {
         int[] nums={1,2,4,5};
         missingNmber mn=new missingNmber();
